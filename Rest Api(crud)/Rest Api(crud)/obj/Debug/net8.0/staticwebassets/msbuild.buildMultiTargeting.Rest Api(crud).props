@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Rest Api(crud).props" />
+</Project>

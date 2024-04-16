@@ -1,0 +1,36 @@
+1))create a project folder and open visual code 
+2)OPEN TEMINAL AND STEPS BY STEPS COPY paste this commands
+ng add @angular/material    ,say yes ,graphic yes ,animation , enable
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init
+
+npm install @angular/material @angular/cdk
+
+create http file  : command  :  ng g s http
+
+
+
+
+
+
+
+
+for .net api 
+  for sql server use "Install-Package Microsoft.EntityFrameworkCore.SqlServer"
+
+
+ connection string : in program.cs file
+ "builder.Services.AddDbContext<AppDbContext>(option =>option.UseSqlServer("name=ConnectionStrings:DefaultConnection"));"
+
+for connection apply:
+  in  appSeting.json file
+      code enter this      "AllowedHosts": "*",
+                           "ConnectionStrings": {
+                        "DefaultConnection": "Server=DESKTOP-2RSLHO3\\SQLEXPRESS01;  Database=EmployeeDB;Trusted_Connection=SSPI;Encrypt=false;TrustServerCertificate=true"
+
+                 }
+
+Migrate :
+   Add-Migration 'InitialCreate'
+     Update-Database
+       

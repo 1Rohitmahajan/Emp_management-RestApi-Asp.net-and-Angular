@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0BD005-F2D9-4949-AAA0-9163CDE12796}|Rest Api(crud)\\Rest Api(crud).csproj|c:\\users\\hp\\desktop\\angular crud\\rest api(crud)\\rest api(crud)\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0BD005-F2D9-4949-AAA0-9163CDE12796}|Rest Api(crud)\\Rest Api(crud).csproj|solutionrelative:rest api(crud)\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0BD005-F2D9-4949-AAA0-9163CDE12796}|Rest Api(crud)\\Rest Api(crud).csproj|c:\\users\\hp\\desktop\\angular crud\\rest api(crud)\\rest api(crud)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0BD005-F2D9-4949-AAA0-9163CDE12796}|Rest Api(crud)\\Rest Api(crud).csproj|solutionrelative:rest api(crud)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0BD005-F2D9-4949-AAA0-9163CDE12796}|Rest Api(crud)\\Rest Api(crud).csproj|c:\\users\\hp\\desktop\\angular crud\\rest api(crud)\\rest api(crud)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB0BD005-F2D9-4949-AAA0-9163CDE12796}|Rest Api(crud)\\Rest Api(crud).csproj|solutionrelative:rest api(crud)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0BD005-F2D9-4949-AAA0-9163CDE12796}|Rest Api(crud)\\Rest Api(crud).csproj|c:\\users\\hp\\desktop\\angular crud\\rest api(crud)\\rest api(crud)\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0BD005-F2D9-4949-AAA0-9163CDE12796}|Rest Api(crud)\\Rest Api(crud).csproj|solutionrelative:rest api(crud)\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0BD005-F2D9-4949-AAA0-9163CDE12796}|Rest Api(crud)\\Rest Api(crud).csproj|c:\\users\\hp\\desktop\\angular crud\\rest api(crud)\\rest api(crud)\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0BD005-F2D9-4949-AAA0-9163CDE12796}|Rest Api(crud)\\Rest Api(crud).csproj|solutionrelative:rest api(crud)\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0BD005-F2D9-4949-AAA0-9163CDE12796}|Rest Api(crud)\\Rest Api(crud).csproj|c:\\users\\hp\\desktop\\angular crud\\rest api(crud)\\rest api(crud)\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0BD005-F2D9-4949-AAA0-9163CDE12796}|Rest Api(crud)\\Rest Api(crud).csproj|solutionrelative:rest api(crud)\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0BD005-F2D9-4949-AAA0-9163CDE12796}|Rest Api(crud)\\Rest Api(crud).csproj|c:\\users\\hp\\desktop\\angular crud\\rest api(crud)\\rest api(crud)\\rest api(crud).http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CB0BD005-F2D9-4949-AAA0-9163CDE12796}|Rest Api(crud)\\Rest Api(crud).csproj|solutionrelative:rest api(crud)\\rest api(crud).http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0BD005-F2D9-4949-AAA0-9163CDE12796}|Rest Api(crud)\\Rest Api(crud).csproj|c:\\users\\hp\\desktop\\angular crud\\rest api(crud)\\rest api(crud)\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0BD005-F2D9-4949-AAA0-9163CDE12796}|Rest Api(crud)\\Rest Api(crud).csproj|solutionrelative:rest api(crud)\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Migrations\\20240405102758_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Rest Api(crud)\\Migrations\\20240405102758_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Migrations\\20240405092616_InitialCreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Rest Api(crud)\\Migrations\\20240405092616_InitialCreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Migrations\\20240405092228_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Rest Api(crud)\\Migrations\\20240405092228_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Migrations\\20240405081318_Initial setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Rest Api(crud)\\Migrations\\20240405081318_Initial setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Migrations\\20240405080318_Inital setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Rest Api(crud)\\Migrations\\20240405080318_Inital setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0BD005-F2D9-4949-AAA0-9163CDE12796}|Rest Api(crud)\\Rest Api(crud).csproj|c:\\users\\hp\\desktop\\angular crud\\rest api(crud)\\rest api(crud)\\migrations\\20240405103053_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0BD005-F2D9-4949-AAA0-9163CDE12796}|Rest Api(crud)\\Rest Api(crud).csproj|solutionrelative:rest api(crud)\\migrations\\20240405103053_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Rest Api(crud)\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Rest Api(crud)\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:58:15.25Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rest Api(crud).http",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Rest Api(crud).http",
+              "RelativeDocumentMoniker": "Rest Api(crud)\\Rest Api(crud).http",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Rest Api(crud).http",
+              "RelativeToolTip": "Rest Api(crud)\\Rest Api(crud).http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-05T17:42:04.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\appsettings.json",
+              "RelativeDocumentMoniker": "Rest Api(crud)\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\appsettings.json",
+              "RelativeToolTip": "Rest Api(crud)\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-05T17:42:00.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Rest Api(crud)\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Rest Api(crud)\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:38:58.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Data\\Employee.cs",
+              "RelativeDocumentMoniker": "Rest Api(crud)\\Data\\Employee.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Data\\Employee.cs",
+              "RelativeToolTip": "Rest Api(crud)\\Data\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:26:26.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Program.cs",
+              "RelativeDocumentMoniker": "Rest Api(crud)\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Program.cs",
+              "RelativeToolTip": "Rest Api(crud)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:57:58.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Rest Api(crud)\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Rest Api(crud)\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:55:59.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Data\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Rest Api(crud)\\Data\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Data\\EmployeeRepository.cs",
+              "RelativeToolTip": "Rest Api(crud)\\Data\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:54:40.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240405103053_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Migrations\\20240405103053_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Rest Api(crud)\\Migrations\\20240405103053_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Migrations\\20240405103053_InitialCreate.cs",
+              "RelativeToolTip": "Rest Api(crud)\\Migrations\\20240405103053_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:30:53.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240405102758_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Migrations\\20240405102758_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Rest Api(crud)\\Migrations\\20240405102758_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Migrations\\20240405102758_InitialCreate.cs",
+              "RelativeToolTip": "Rest Api(crud)\\Migrations\\20240405102758_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:27:58.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240405092616_InitialCreate1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Migrations\\20240405092616_InitialCreate1.cs",
+              "RelativeDocumentMoniker": "Rest Api(crud)\\Migrations\\20240405092616_InitialCreate1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Migrations\\20240405092616_InitialCreate1.cs",
+              "RelativeToolTip": "Rest Api(crud)\\Migrations\\20240405092616_InitialCreate1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:26:16.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240405092228_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Migrations\\20240405092228_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Rest Api(crud)\\Migrations\\20240405092228_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Migrations\\20240405092228_InitialCreate.cs",
+              "RelativeToolTip": "Rest Api(crud)\\Migrations\\20240405092228_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:22:28.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240405081318_Initial setup.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Migrations\\20240405081318_Initial setup.cs",
+              "RelativeDocumentMoniker": "Rest Api(crud)\\Migrations\\20240405081318_Initial setup.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Migrations\\20240405081318_Initial setup.cs",
+              "RelativeToolTip": "Rest Api(crud)\\Migrations\\20240405081318_Initial setup.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T08:13:18.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240405080318_Inital setup.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Migrations\\20240405080318_Inital setup.cs",
+              "RelativeDocumentMoniker": "Rest Api(crud)\\Migrations\\20240405080318_Inital setup.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Angular crud\\Rest Api(crud)\\Rest Api(crud)\\Migrations\\20240405080318_Inital setup.cs",
+              "RelativeToolTip": "Rest Api(crud)\\Migrations\\20240405080318_Inital setup.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T08:03:19.059Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
